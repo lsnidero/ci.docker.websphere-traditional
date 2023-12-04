@@ -14,7 +14,7 @@ spec:
   - name: repo-url
     value: https://github.com/lsnidero/ci.docker.websphere-traditional
   - name: branch-name
-    value: master
+    value: main
   - name: repo-context
     value: samples/hello-world
   - name: repo-dockerfile
